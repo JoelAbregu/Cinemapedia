@@ -17,9 +17,9 @@
 ## 🧱 Tecnologías y herramientas usadas
 
 - **Flutter** + **Dart**
-- **State Management** (Provider, Riverpod o el que estés usando)
+- **State Management** (Riverpod)
 - **API REST** (TheMovieDB)
-- **Base de datos local**: SQLite / Hive
+- **Base de datos local**: (Issar)
 - **build_runner** para generación automática de código
 - **Widgets personalizados** para UI modular y reutilizable
 
@@ -40,6 +40,5 @@
 ## 👨‍💻 Objetivo del proyecto
 
 Esta app fue creada como parte de un proceso de aprendizaje para dominar el ecosistema Flutter, trabajando con APIs, bases de datos locales y estructuras limpias, orientadas a un desarrollo profesional de aplicaciones móviles.
-
----
+ 
  
